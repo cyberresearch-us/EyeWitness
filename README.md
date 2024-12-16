@@ -7,6 +7,8 @@ EyeWitness is designed to run on Kali Linux. It will auto detect the file you gi
 
 A complete usage guide which documents EyeWitness features and its typical use cases is available here - https://www.christophertruncer.com/eyewitness-2-0-release-and-user-guide/
 
+If orignial link does not resolve: Wayback Machine - https://web.archive.org/web/20240526083841/https://www.christophertruncer.com/eyewitness-2-0-release-and-user-guide/
+
 ## Windows
 Red Siege has created a Windows client (thanks to the massive help of Matt Grandy (@Matt_Grandy_) with the stability fixes). All you need to do is build it locally (or check the releases), and then provide a path to a file containing the URLs you want scanned! EyeWitness will generate the report within your "AppData\Roaming" directory. The latest version of the C# EyeWitness supports parsing and taking screenshots of Internet Explorer and Chrome bookmarks without having to supply a list of URLs. This version is also small enough to be delivered through Cobalt Strike's execute-assembly.
 
